@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class ConstructorDemo {
 	public static void main(String args[])
 	{
+		//GGHFHGFC
 	Scanner sc=new Scanner(System.in);
 	String name, city;
 	int id;
