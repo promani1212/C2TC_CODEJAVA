@@ -5,7 +5,7 @@ public class CharDemo {
 		// assigning single character literal   
 		char ch = 'a'; 
 		System.out.println(ch); 
-		  // assigning number to char  
+		  // assigning number to char  NGVHBG
 	char ch1 = 65; 
 	System.out.println(ch1); 
 		 
